@@ -10,6 +10,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>mybatis_generator2024</module>
+        <module>cloud-alibaba-provider-payment9001</module>
+        <module>cloud-provider-payment8001</module>
+        <module>cloud-api-commons</module>
     </modules>
 
     <properties>
